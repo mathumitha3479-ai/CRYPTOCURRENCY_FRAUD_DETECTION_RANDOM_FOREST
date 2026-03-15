@@ -9,12 +9,22 @@ This project detects fraudulent cryptocurrency transactions using machine learni
 - Random Forest
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-
+## Results
 ## Model Evaluation
 - Accuracy
 - Confusion Matrix
 - ROC Curve
 - Feature Importance
+
+
+### Model Accuracy
+![Model Accuracy](model accuracy.png)
+
+### Confusion Matrix
+![Confusion Matrix](confusion matrix.png)
+
+### ROC Curve
+![ROC Curve](roc curve.png)
+
+### Feature Importance
+![Feature Importance](feature importance graph.png)
